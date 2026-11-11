@@ -7,7 +7,7 @@ A Logistic Regression based "SATIRE" ML Model to identify if your girlfriend is 
 
 ## 🛠️ Tech Stack & Libraries
 * **Language:** Python
-* **Environment:** Jupyter Notebook / JupyterLab (`train_model.ipynb`)
+* **Environment:** Jupyter Notebook 
 * **Libraries:** 
   * `pandas` for data handling and inspection
   * `scikit-learn` for data splitting, logistic regression modeling, and performance evaluation metrics
